@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="128" cy="128" r="128" fill="#2C3E50"/>
+  
+  <!-- Speaker icon -->
+  <path d="M80 128 L112 104 L112 152 Z" fill="#ECF0F1"/>
+  
+  <!-- Sound waves -->
+  <path d="M128 128 Q144 112 160 128 T192 128" stroke="#ECF0F1" stroke-width="8" fill="none"/>
+  <path d="M128 128 Q144 144 160 128 T192 128" stroke="#ECF0F1" stroke-width="8" fill="none"/>
+  
+  <!-- Switch arrow -->
+  <path d="M160 80 L200 128 L160 176 Z" fill="#3498DB"/>
+  
+  <!-- Text label -->
+  <text x="128" y="220" font-family="Arial" font-size="16" fill="#ECF0F1" text-anchor="middle">SWITCH</text>
+</svg>
